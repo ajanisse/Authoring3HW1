@@ -1,0 +1,21 @@
+{
+  "name": "Authoring3HW1",
+  "version": "1.0.0",
+  "description": "chat application for video project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajanisse/Authoring3HW1.git"
+  },
+  "keywords": [],
+  "author": "AJ",
+  "license": "MIT",
+  "homepage": "https://github.com/ajanisse/Authoring3HW1",
+  "dependencies": {
+    "express": "^4.16.2",
+    "grunt": "^1.0.1"
+  }
+}
